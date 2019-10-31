@@ -1,0 +1,49 @@
+.name_room{
+	text-align: center;
+	font-weight: bold;
+	text-decoration: overline;
+	text-transform: uppercase;
+}
+
+.contant{
+	width: 80%;
+	margin: auto;
+	background-color: lightgreen;
+	text-align:center;
+	padding: 1%;
+	border-radius: 10px 10px 10px 10px;
+}
+
+.leftimg{
+	float: left;
+    margin: 7px 7px 7px 0;
+}
+
+.modalwin {
+	height: 40%;  
+    width: 50%;
+    border: 3px outset gray; 
+    background: lightgreen;
+    border-radius: 10px 10px 10px 10px;
+    top: 20%; /* отступ сверху */
+    right: 0;
+    left: 0;
+    font-size: 20px; 
+    margin: 0 auto;
+    z-index:2; /* поверх всех */
+    display: none;  /* сначала невидим */
+    position: fixed; /* фиксированное позиционирование, окно стабильно при прокрутке */
+    padding: 15px;
+    border: 1px solid #383838;
+}
+
+#shadow {
+	position: fixed;
+	width:100%;
+	height:100%;
+	z-index:1; /* поверх всех  кроме окна*/
+	background:#000;
+	opacity: 0.5; /*прозрачность*/
+	left:0;
+	top:0;
+}

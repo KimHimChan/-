@@ -1,0 +1,22 @@
+.name_room{
+	text-align: center;
+	font-weight: bold;
+	text-decoration: overline;
+	text-transform: uppercase;
+}
+
+#block{
+	background: lightgreen;
+	text-align: center;
+	padding: 0.25%;
+	border-radius: 10px 10px 0 0;
+}
+
+.contant{
+	width: 50%;
+	margin: auto;
+	background-color: lightgreen;
+	text-align:center;
+	padding: 1%;
+	border-radius: 10px 10px 10px 10px;
+}

@@ -1,0 +1,31 @@
+.name_room{
+	text-align: center;
+	font-weight: bold;
+	text-decoration: overline;
+	text-transform: uppercase;
+}
+.commentaries{
+	width: 98%;
+	padding: 0.5%;
+	background-color: lightblue;
+	border-radius: 10px 10px 10px 10px;
+}
+.border_login{
+	margin: 0.25%;
+	float: left;
+	border: 1px solid #383838;
+	border-radius: 5px 5px 5px 5px;
+}
+.in_block{
+	margin: 0;
+	text-align: left;
+	display: inline-block;
+}
+.pages{
+	width: 80%;
+	height: 100%;
+	margin: auto;
+	background-color: lightgreen;
+	padding: 1%;
+	border-radius: 10px 10px 10px 10px;
+}

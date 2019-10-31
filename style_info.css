@@ -1,0 +1,19 @@
+.name_room{
+	text-align: center;
+	font-weight: bold;
+	text-decoration: overline;
+	text-transform: uppercase;
+}
+
+.content{
+	width: 80%;
+	margin: auto;
+	background-color: lightgreen;
+	padding: 1%;
+	border-radius: 10px 10px 10px 10px;
+}
+
+.leftimg{
+	float: left;
+    margin: 7px 7px 7px 0;
+}
