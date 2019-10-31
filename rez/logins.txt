@@ -1,6 +1,7 @@
 login (password):
 
-victoryAdmin (victoryAdmin)
+victoryAdmin (victoryAdmin)  ->  вход от имени админитратора
 nossizz (nossizz)
 kaka (kaka12345)
 katya (katya_logins)
+
